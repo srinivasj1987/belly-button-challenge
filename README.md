@@ -59,10 +59,6 @@ The following task is advanced and therefore optional.
 ![GuageChart](https://github.com/srinivasj1987/belly-button-challenge/assets/132161799/29dafbef-2baf-4cc8-8a36-c7ff32fbe725)
 
 
-## Deployment
-
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
-
 ## Hints
 
 * Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
